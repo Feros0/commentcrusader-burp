@@ -9,7 +9,9 @@ License: **MIT**
 
 Comment Crusader is a Burp Suite extension that detects, catalogs, and exports developer comments, keywords, and potential secrets embedded in HTTP responses — including both HTML and JavaScript content. It’s a handy recon and code-review assistant for identifying exposed insights, internal notes, and credential leaks during security assessments.
 
-![Comment Crusader Logo](./media/crusader.png)
+<p align="center">
+  <img src="./media/crusader.png" alt="Comment Crusader Logo" width="300"/>
+</p>
 
 ---
 
