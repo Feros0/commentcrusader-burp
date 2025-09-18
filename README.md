@@ -43,4 +43,4 @@ Comment Crusader is a Burp Suite extension that detects, catalogs, and exports d
 3. Profit. 
 
 ## 🚀 Demo
-![Comment Crusader POC](./media/commentcrusader.mp4)
+![Comment Crusader POC](./media/commentcrusader.gif)
